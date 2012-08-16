@@ -1,0 +1,14 @@
+{
+  "name": "johana-route",
+  "description": "Route for Johana framework",
+  "version": "0.0.1",
+  "author": "Johana Team <johanaframework@gmail.com>",
+  "contributors": [ 
+    { "name": "Vova Zolotoy", "email": "vovazolotoy@gmail.com" }
+  ],
+ "devDependencies": {
+    "johana": ">= 0.0.1"
+  },
+  "keywords": ["framework", "api", "web", "route"],
+  "repository": "git://github.com/johanaframework/route"
+}
